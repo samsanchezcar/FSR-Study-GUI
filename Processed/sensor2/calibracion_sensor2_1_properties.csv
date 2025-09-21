@@ -1,0 +1,2 @@
+Rango_min_g,Rango_max_g,Rango_min_V,Rango_max_V,Alcance_g,FSO_volts,Precision_%FSO,Resolucion_V_per_g,R2_regresion,Sensibilidad_eq,Ecuacion_regresion
+250.0,4000.0,0.235,0.248,3750.0,0.013,,3e-06,0.0494,S(P) = (2*0.001110*ln(P) + -0.016156) / P,V = 0.001110(ln(P))² + -0.016156ln(P) + 0.301556

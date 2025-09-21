@@ -1,0 +1,9 @@
+Coeficientes regresión cuadrática (V vs ln(P)):
+  a = -0.347049
+  b = 5.716487
+  c = -20.492156
+R^2 = 0.942700
+Ecuación: V = -0.347049(ln(P))² + 5.716487ln(P) + -20.492156
+
+Ecuación de sensibilidad:
+  S(P) = (2*-0.347049*ln(P) + 5.716487) / P
