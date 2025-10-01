@@ -125,6 +125,8 @@ git push origin main
 ## 👤 Autor / Contacto
 
 **Samuel David Sanchez Cardenas**  
+[Github](!https://github.com/samsanchezcar)
+)
 📧 samsanchezcar@gmail.com
 
 ---
