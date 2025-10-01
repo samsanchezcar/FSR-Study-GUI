@@ -125,8 +125,8 @@ git push origin main
 ## 👤 Autor / Contacto
 
 **Samuel David Sanchez Cardenas**  
-[![GitHub](https://img.shields.io/badge/GitHub-samsanchezcar-181717?style=for-the-badge&logo=github)](https://github.com/samsanchezcar) 
-📧 samsanchezcar@gmail.com
+[![GitHub](https://img.shields.io/badge/-samsanchezcar-181717?style=flat&logo=github&logoColor=white)](https://github.com/samsanchezcar)  
+[![Email](https://img.shields.io/badge/-samsanchezcar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samsanchezcar@gmail.com)
 
 ---
 
