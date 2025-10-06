@@ -363,6 +363,9 @@ git push origin main
 ```
 
 ---
+</td>
+</tr>
+</table>
 
 ## 🔧 System Architecture
 
