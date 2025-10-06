@@ -364,41 +364,6 @@ git push origin main
 
 ---
 
-## 📈 Project Roadmap
-
-### ✅ Completed Features
-
-- [x] Multiplexed FSR sensor reading system
-- [x] Arduino firmware for data acquisition
-- [x] Serial communication protocol
-- [x] Bluetooth Low Energy (BLE) GUI
-- [x] Multi-sensor data logging
-- [x] Structured data organization
-- [x] CAD designs for sensor mounting
-- [x] Comprehensive documentation
-
-### 🚧 In Progress
-
-- [ ] Advanced calibration algorithms
-- [ ] Real-time data visualization dashboard
-- [ ] Automated data analysis pipeline
-- [ ] Machine learning force prediction models
-
-### 🔮 Future Plans
-
-- [ ] ROS2 integration for robotics applications
-- [ ] Cloud data storage and synchronization
-- [ ] Mobile companion app (Android/iOS)
-- [ ] Multi-device wireless sensor networks
-- [ ] Integration with prosthetic control systems
-- [ ] Web-based remote monitoring interface
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🔧 System Architecture
 
 ### 📡 Communication Protocols
