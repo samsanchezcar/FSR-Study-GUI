@@ -1,0 +1,2 @@
+# Ignorar archivos G-code en el análisis de lenguajes
+*.gcode linguist-detectable=false
